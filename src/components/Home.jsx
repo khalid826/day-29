@@ -4,7 +4,7 @@ import HomeMenu from './HomeMenu';
 
 const Home = () => {
   return (
-    <div className="App" style={{ backgroundColor: '#F2E3D5' }}>
+    <div className="App min-h-screen" style={{ backgroundColor: '#F2E3D5' }}>
       <Navbar />
 
       {/* Main Content */}
